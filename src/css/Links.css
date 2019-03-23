@@ -1,0 +1,13 @@
+.links ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+.links ul li a {
+  text-decoration: none;
+  font-size: 25px;
+  color: #ff8400;
+}
+
+.links a:hover {
+  color: #fff;
+}

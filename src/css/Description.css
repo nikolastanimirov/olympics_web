@@ -1,0 +1,19 @@
+.description {
+  background: #fff;
+}
+h1 {
+  font-size: 72px;
+  margin: 0 auto;
+  align-content: center;
+  text-align: center;
+  padding: 1em;
+}
+.description-text {
+  font-size: 50px;
+  align-content: center;
+  text-align: justify;
+  margin: 0 auto;
+  width: 25em;
+  height: 350px;
+  padding: 50px;
+}

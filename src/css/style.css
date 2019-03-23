@@ -1,0 +1,41 @@
+body {
+  margin: 0 auto;
+  background-image: url("../sources/1.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: "Subscribe";
+}
+
+#logo img {
+  width: 150px;
+  height: 150px;
+  margin-top: -1.5em;
+}
+#main-logo {
+  align-content: left;
+  padding: 50px;
+  width: 150px;
+  height: 100px;
+}
+.App {
+  font-size: 50px;
+}
+.btn-register {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #ff8400;
+  border: none;
+  border-radius: 15px;
+  margin: 0 auto;
+}
+.btn-register:hover {
+  background-color: #e68200;
+}
+.arrow-down {
+  margin: 0 auto;
+  padding: 50px;
+}
