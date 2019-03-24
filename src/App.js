@@ -5,7 +5,7 @@ import Button from "./components/Button";
 import Arrow from "./components/Arrow";
 import Countdown from "./components/countdown/Coutdown";
 import Display from "./components/SponsorsData";
-import Slider from "./components/Slide";
+import Footer from "./components/Footer";
 import Sports from "./components/SportsData";
 import "./css/Countdown.css";
 import "./css/style.css";
@@ -28,6 +28,7 @@ class App extends React.Component {
         <About />
         <Display />
         <Sports />
+        <Footer />
       </div>
     );
   }

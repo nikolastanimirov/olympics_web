@@ -1,0 +1,28 @@
+footer {
+  max-width: 100%;
+  background: #333;
+  margin: 0 auto;
+  align-content: center;
+  text-align: center;
+}
+.footer-title {
+  padding: 20px;
+  margin: 0 0 0 30px;
+  align-content: center;
+  text-align: center;
+  font-size: 36px;
+  color: rgb(199, 199, 199);
+}
+footer img {
+  width: 36px;
+  height: 36px;
+  margin-top: 15px;
+}
+footer ul li {
+  display: inline-block;
+  padding: 15px;
+}
+.copyright {
+  font-size: 30px;
+  padding-bottom: 10px;
+}
